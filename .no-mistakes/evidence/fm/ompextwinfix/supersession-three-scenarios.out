@@ -1,0 +1,58 @@
+=== scenario: superseded-noent (status 0)
+{
+  "gotMessage": true,
+  "customType": "firstmate-sessionstart-nudge",
+  "contentHasResidue": false,
+  "content": "sessionstart:attempt-two-digest",
+  "display": false,
+  "detailsKind": "session-start",
+  "bashCallCount": 4,
+  "shimLog": "bash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite\nbash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite\nbash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-operational-input.sh kind\nbash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-operational-input.sh kind"
+}
+--- shim log:
+bash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite
+bash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite
+bash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-operational-input.sh kind
+bash-invoked:/tmp/fm-supersession.Nbx90c/bin/fm-operational-input.sh kind
+--- counts:
+2
+2
+=== scenario: acc-reset-partial (status 0)
+{
+  "gotMessage": true,
+  "customType": "firstmate-sessionstart-nudge",
+  "contentHasResidue": false,
+  "content": "sessionstart:attempt-two-digest",
+  "display": false,
+  "detailsKind": "session-start",
+  "bashCallCount": 4,
+  "shimLog": "bash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite\nbash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite\nbash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-operational-input.sh kind\nbash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-operational-input.sh kind"
+}
+--- shim log:
+bash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite
+bash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite
+bash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-operational-input.sh kind
+bash-invoked:/tmp/fm-supersession.7bAMSm/bin/fm-operational-input.sh kind
+--- counts:
+2
+2
+=== scenario: exit127-refuse (status 0)
+{
+  "gotMessage": true,
+  "customType": "firstmate-sessionstart-nudge",
+  "contentHasResidue": false,
+  "content": "sessionstart:attempt-two-digest",
+  "display": false,
+  "detailsKind": "session-start",
+  "bashCallCount": 4,
+  "shimLog": "bash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite\nbash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite\nbash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-operational-input.sh kind\nbash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-operational-input.sh kind"
+}
+--- shim log:
+bash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite
+bash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-sessionstart-run.sh --source startup --pi-prerequisite
+bash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-operational-input.sh kind
+bash-invoked:/tmp/fm-supersession.MObEg0/bin/fm-operational-input.sh kind
+--- counts:
+2
+2
+exit=0

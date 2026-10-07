@@ -1,0 +1,7 @@
+=== error-then-close (status 0)
+{
+  "gotMessage": true,
+  "customType": "firstmate-sessionstart-nudge",
+  "content": "sessionstart:attempt-two-digest"
+}
+exit=0

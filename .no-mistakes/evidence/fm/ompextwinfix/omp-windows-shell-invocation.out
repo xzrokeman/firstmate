@@ -1,0 +1,2 @@
+ok - omp session-start, pre-tool, turn-end, and operational-input seams invoke Bash owners through bash on native Windows, retry once in the other path form when a WSL-launcher bash cannot resolve the script, never retry a real verdict, and degrade silently when bash cannot run
+exit=0
