@@ -1,0 +1,5 @@
+$ bin/fm-harness.sh ancestry <live bun-hosted omp pid 56745>
+args omp
+
+$ ps -p 56745 -o comm,args
+bun bun /Users/xzrokeman/.bun/bin/omp --mode rpc --no-session --cwd /var/folders/vq/jkctslxs6xxfz184rcnpmwf00000gn/T//fm-omp-probe.H28UVS/proj --config /var/folders/vq/jkctslxs6xxfz184rcnpmwf00000gn/T//fm-omp-probe.H28UVS/proj/.omp/fm-worker-overlay.yml --auto-approve --model kimi-cn/kimi-k3.1-pro --thinking low
