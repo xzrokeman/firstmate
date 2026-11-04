@@ -1,0 +1,5 @@
+== fm_bun_harness_name against live real-bun pids ==
+good-spaced-dir-omp: identified=omp
+adversarial-one-arg-with-space: rejected (rc=1)
+plain-script: rejected (rc=1)
+== fm-harness.sh detect as a child of each bun process (markers cleared) ==

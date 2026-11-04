@@ -1,0 +1,10 @@
+--- iteration 20 FAILED ---
+not ok - omp watch extension contract: file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/.base-check/[eval1]:24
+if (sent.length !== 1) throw new Error(`expected one follow-up wake, saw ${sent.length}: ${JSON.stringify(sent)}`);
+                             ^
+
+Error: expected one follow-up wake, saw 0: []
+    at file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/.base-check/[eval1]:24:30
+
+Node.js v26.4.0: expected exit 0, got 1
+RESULT repo=/Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/.base-check pass=19 fail=1 of 20

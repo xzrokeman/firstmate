@@ -1,0 +1,4 @@
+== child of real bun-hosted 'omp' script at spaced path detects: ==
+omp
+== child of real bun running single-arg-with-space 'omp tools/task.js' detects: ==
+claude

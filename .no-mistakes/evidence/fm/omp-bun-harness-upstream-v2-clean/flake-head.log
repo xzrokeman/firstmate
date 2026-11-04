@@ -1,0 +1,45 @@
+--- iteration 1 FAILED ---
+not ok - omp watch extension contract: file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24
+if (sent.length !== 1) throw new Error(`expected one follow-up wake, saw ${sent.length}: ${JSON.stringify(sent)}`);
+                             ^
+
+Error: expected one follow-up wake, saw 0: []
+    at file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24:30
+
+Node.js v26.4.0: expected exit 0, got 1
+--- iteration 2 FAILED ---
+not ok - omp watch extension contract: file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24
+if (sent.length !== 1) throw new Error(`expected one follow-up wake, saw ${sent.length}: ${JSON.stringify(sent)}`);
+                             ^
+
+Error: expected one follow-up wake, saw 0: []
+    at file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24:30
+
+Node.js v26.4.0: expected exit 0, got 1
+--- iteration 3 FAILED ---
+not ok - omp watch extension contract: file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24
+if (sent.length !== 1) throw new Error(`expected one follow-up wake, saw ${sent.length}: ${JSON.stringify(sent)}`);
+                             ^
+
+Error: expected one follow-up wake, saw 0: []
+    at file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24:30
+
+Node.js v26.4.0: expected exit 0, got 1
+--- iteration 4 FAILED ---
+not ok - omp watch extension contract: file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24
+if (sent.length !== 1) throw new Error(`expected one follow-up wake, saw ${sent.length}: ${JSON.stringify(sent)}`);
+                             ^
+
+Error: expected one follow-up wake, saw 0: []
+    at file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24:30
+
+Node.js v26.4.0: expected exit 0, got 1
+--- iteration 5 FAILED ---
+not ok - omp watch extension contract: file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24
+if (sent.length !== 1) throw new Error(`expected one follow-up wake, saw ${sent.length}: ${JSON.stringify(sent)}`);
+                             ^
+
+Error: expected one follow-up wake, saw 0: []
+    at file:///Users/xzrokeman/.no-mistakes/worktrees/3dd0479d9ac5/01M6J9647NCJE8ERBEJE4XJC1D/[eval1]:24:30
+
+Node.js v26.4.0: expected exit 0, got 1
